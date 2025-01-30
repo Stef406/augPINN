@@ -155,7 +155,7 @@ os.makedirs(output_dir, exist_ok=True)
 #%% Training and testing
 torch.manual_seed(92)
 
-# Initialize the model and optimizer for each fold
+# Initialize the model and optimizer
 nn = FCN(1, 1, 64, 4).to(device)
 
 # Update the optimizer to include the adaptive weights
