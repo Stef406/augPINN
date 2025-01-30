@@ -14,6 +14,7 @@ This project provides two different PINN frameworks in Python and a purely mecha
 The main codes are:
   - PINN.py to train and test the PINN.
   - augPINN.py to train and test an augmented version of the PINN.
+  - NN.py to train and test a data-driven neural network.
   - force_ODE.jl to solve the force balance to describe the motion of the PP particle.
 
 Useful functions are:
