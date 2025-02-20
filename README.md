@@ -5,8 +5,8 @@ Copyright 2025, All Rights Reserved
 Code by Stefano Iannello
 For Paper, "A hybrid physics-machine learning approach 
             for modelling plastics-bed interactions during fluidized bed pyrolysis"
-Energy & Fuels, XX, XX, 2025,
-https:XXDOI,
+Energy & Fuels, 2025,
+https://pubs.acs.org/doi/10.1021/acs.energyfuels.4c05870,
 by S. Iannello, A. Friso, F. Galvanin, M. Materazzi.
 
 This project provides two different PINN frameworks in Python and a purely mechanistic model in Julia to describe the motion of polypropylene (PP) particles within a fluidized bed reactor during pyrolysis.
